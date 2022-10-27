@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This was part of smart ninja course i did in last year. Make product/service webiste with bootstrap. 
+This was part of smart ninja course i did in october 2021. Make product/service webiste with bootstrap. 
 I learned how to use bootstrap and it was simple and fun. I do however prefer to use plain css. 
 
 ## Technologies 
